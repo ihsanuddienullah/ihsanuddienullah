@@ -7,5 +7,5 @@
 - 🌱 Working on tech company
 - 🤔 Passionate about client-side programming
 - 📫 How to reach me: ihsanuddienullah@gmail.com
-- 🌏 https://ihsanuddienullah.vercel.app
+- 🌏 https://ihsanuddienullah.netlify.app
 - ⚡ Fun fact: Long life learner xixi
