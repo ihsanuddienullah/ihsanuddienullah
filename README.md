@@ -41,16 +41,6 @@ if (ihsan.coffee === 0) {
 
 ---
 
-## 🔥 What I Actually Do
-
-- 🎨 **Make UIs** that don't make people want to quit
-- 🐛 **Create bugs** at 2am, fix them at 3am, call it a feature at 4am
-- 🤔 **Spend 20 mins** writing code, **2 hours** fixing indentation
-- 📦 **npm install** my way out of problems
-- 🗿 **Stack Overflow** is my co-founder, let's be honest
-
----
-
 ## ⚡ Tech Stack I Hang Out With
 
 <div align="center">
@@ -104,21 +94,6 @@ if (ihsan.coffee === 0) {
 
 ---
 
-## 🎭 A Typical Day in My Life
-
-```
-08:00  ☕  Coffee acquired. Human mode: ON
-09:00  💻  "I'll just fix this one small thing..."
-11:00  🕳️  Fell into a rabbit hole of docs
-13:00  🍜  Lunch. Also opened 17 new Stack Overflow tabs
-15:00  🤯  "Why is CSS like this"
-17:00  ✨  It works! Don't know why. Not touching it.
-22:00  🌙  "Just one more commit before bed..."
-02:00  😴  Zzzzz (git commit -m "final fix final FINAL")
-```
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -133,12 +108,6 @@ Got a cool project? A bug that needs solving? Or just wanna talk about why CSS `
 ---
 
 <div align="center">
-
-**⭐ Star my repos if you find them useful — it feeds my motivation (and my ego, just a lil bit)**
-
-```
-Made with ❤️, ☕, and an unhealthy amount of console.log()
-```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ihsanuddienullah&color=F7971E&style=flat-square&label=profile+views)
 
