@@ -41,6 +41,16 @@ if (ihsan.coffee === 0) {
 
 ---
 
+## 🔥 What I Actually Do
+
+- 🎨 **Make UIs** that don't make people want to quit
+- 🐛 **Create bugs** at 2am, fix them at 3am, call it a feature at 4am
+- 🤔 **Spend 20 mins** writing code, **2 hours** fixing indentation
+- 📦 **npm install** my way out of problems
+- 🗿 **Stack Overflow** is my co-founder, let's be honest
+
+---
+
 ## ⚡ Tech Stack I Hang Out With
 
 <div align="center">
@@ -56,6 +66,7 @@ if (ihsan.coffee === 0) {
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Styling**
 
@@ -65,17 +76,13 @@ if (ihsan.coffee === 0) {
 ![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-**State Management & Forms**
+**State Management**
 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Formik](https://img.shields.io/badge/Formik-172B4D?style=for-the-badge&logo=formik&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 **Tooling & Testing**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -97,6 +104,21 @@ if (ihsan.coffee === 0) {
 
 ---
 
+## 🎭 A Typical Day in My Life
+
+```
+08:00  ☕  Coffee acquired. Human mode: ON
+09:00  💻  "I'll just fix this one small thing..."
+11:00  🕳️  Fell into a rabbit hole of docs
+13:00  🍜  Lunch. Also opened 17 new Stack Overflow tabs
+15:00  🤯  "Why is CSS like this"
+17:00  ✨  It works! Don't know why. Not touching it.
+22:00  🌙  "Just one more commit before bed..."
+02:00  😴  Zzzzz (git commit -m "final fix final FINAL")
+```
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -111,6 +133,12 @@ Got a cool project? A bug that needs solving? Or just wanna talk about why CSS `
 ---
 
 <div align="center">
+
+**⭐ Star my repos if you find them useful — it feeds my motivation (and my ego, just a lil bit)**
+
+```
+Made with ❤️, ☕, and an unhealthy amount of console.log()
+```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ihsanuddienullah&color=F7971E&style=flat-square&label=profile+views)
 
